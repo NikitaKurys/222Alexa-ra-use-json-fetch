@@ -22,3 +22,4 @@ const [data, loading, error] = useJsonFetch(url, opts);
 * GET http://localhost:7070/loading - индикатор загрузки
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/rtocgfovgocn5xxc/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-use-json-fetch/branch/main)
